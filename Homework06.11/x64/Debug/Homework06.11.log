@@ -1,0 +1,11 @@
+﻿  Homework06.11.cpp
+D:\Проекты\Homework06.11\Homework06.11.cpp(95,14): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\Homework06.11\Homework06.11.cpp(97,14): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Проекты\Homework06.11\Homework06.11.cpp(125,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты\Homework06.11\Homework06.11.cpp(159,23): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Проекты\Homework06.11\Homework06.11.cpp(163,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\Homework06.11\Homework06.11.cpp(182,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\Homework06.11\Homework06.11.cpp(197,23): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Проекты\Homework06.11\Homework06.11.cpp(201,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\Homework06.11\Homework06.11.cpp(218,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Homework06.11.vcxproj -> D:\Проекты\Homework06.11\x64\Debug\Homework06.11.exe
